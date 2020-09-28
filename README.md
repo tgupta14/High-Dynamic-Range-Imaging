@@ -6,7 +6,7 @@
 
 The final High Dynamic Range frame is calculated using the following formula:
 
-![Capture](https://user-images.githubusercontent.com/63022731/94486289-0e33de80-0194-11eb-935d-cda60f7eaea3.JPG)
+![tempsnip](https://user-images.githubusercontent.com/63022731/94486869-e1cc9200-0194-11eb-92cc-d8ad3abf32dc.jpg)
 
 
 To display the image, the tonemapping I = I<sub>HDR</sub>/(1 + I<sub>HDR</sub>) is used, and the image is saved as “HDR_phototonemap.png”
