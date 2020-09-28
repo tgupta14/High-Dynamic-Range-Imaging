@@ -11,3 +11,13 @@ The final High Dynamic Range image is calculated using the following formula:
 
 
 To display the image, the tonemapping I = I<sub>HDR</sub>/(1 + I<sub>HDR</sub>) is used, and the image is saved as “HDR_phototonemap.png”. Built-in Drago and Reinhard tonemapping is also done. The final HDR files are stored in "Output Images"
+
+Sample Low Dynamic Range images (They have been converted to JPG from NEF to upload here):
+
+![exposure9](https://user-images.githubusercontent.com/63022731/94489400-3a059300-0199-11eb-8918-5e35debe5b74.jpg)
+![exposure15](https://user-images.githubusercontent.com/63022731/94489398-383bcf80-0199-11eb-878f-0aba79a285b8.jpg)
+
+
+The final HDR Image will look like this:
+
+![HDR_Reinhard](https://user-images.githubusercontent.com/63022731/94488864-489f7a80-0198-11eb-85f5-b863ee5f06e3.jpg)
